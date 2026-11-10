@@ -89,7 +89,7 @@
     {
       "groupId": "g-res",
       "id": "resolution_8k",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_8k.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_8k.svg?v=6",
       "isEnabled": true,
       "name": "8K",
       "pattern": "(?i)(?:4320p(?![a-z])|8k(?![a-z]))",
@@ -102,7 +102,7 @@
     {
       "groupId": "g-res",
       "id": "resolution_4k",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_4k.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_4k.svg?v=6",
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)(?:2160p(?![a-z])|\\buhd(?![a-z])|^(?!.*(?:4k[-_. ]?remaster)).*4k(?![a-z]))",
@@ -115,7 +115,7 @@
     {
       "groupId": "g-res",
       "id": "resolution_2k",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_2k.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_2k.svg?v=6",
       "isEnabled": true,
       "name": "2K",
       "pattern": "(?i)(?:2k(?![a-z]))",
@@ -128,7 +128,7 @@
     {
       "groupId": "g-res",
       "id": "resolution_1080p",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_1080p.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_1080p.svg?v=6",
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)(?:\\bfull[-_. ]?hd(?![a-z])|^(?!.*(?:res[-_. ]?1080p|res[-_. ]?\\|[-_. ]?1080p)).*1080p(?![a-z])|\\bfhd(?![a-z]))",
@@ -141,7 +141,7 @@
     {
       "groupId": "g-res",
       "id": "resolution_720p",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_720p.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_720p.svg?v=6",
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)(?:720p(?![a-z])|^(?!.*(?:dts[-_. ]?\\-hd[-_. ]?hra|dts[-_. ]?\\-hd[-_. ]?ma|dts[-_. ]?hd[-_. ]?hra|dts[-_. ]?hd[-_. ]?ma|dts\\-hd[-_. ]?ma|dts\\-hd\\.ma|full[-_. ]?hd)).*\\bhd(?![a-z]))",
@@ -154,7 +154,7 @@
     {
       "groupId": "g-res",
       "id": "resolution_576p",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_576p.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_576p.svg?v=6",
       "isEnabled": true,
       "name": "576p",
       "pattern": "(?i)(?:576p(?![a-z]))",
@@ -167,7 +167,7 @@
     {
       "groupId": "g-res",
       "id": "resolution_480p",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_480p.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_480p.svg?v=6",
       "isEnabled": true,
       "name": "480p",
       "pattern": "(?i)(?:480p(?![a-z]))",
@@ -180,7 +180,7 @@
     {
       "groupId": "g-res",
       "id": "resolution_sd",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_sd.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/resolution_sd.svg?v=6",
       "isEnabled": true,
       "name": "SD",
       "pattern": "(?i)(?:\\bsd(?![a-z]))",
@@ -193,7 +193,7 @@
     {
       "groupId": "g-video",
       "id": "video_dolby-vision",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_dolby-vision.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_dolby-vision.svg?v=6",
       "isEnabled": true,
       "name": "Dolby VISION",
       "pattern": "(?i)(?:^(?!.*(?:dolby[-_. ]?vision[-_. ]?p5|dolby[-_. ]?vision[-_. ]?p7|dolby[-_. ]?vision[-_. ]?p8)).*\\bdolby[-_. ]?vision(?![a-z])|\\bdovi(?![a-z])|^(?!.*(?:hdr[-_. ]?dv|hdr[-_. ]?\\|[-_. ]?dv)).*\\bdv(?![a-z]))",
@@ -206,7 +206,7 @@
     {
       "groupId": "g-video",
       "id": "video_dolby-vision-p5",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_dolby-vision-p5.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_dolby-vision-p5.svg?v=6",
       "isEnabled": true,
       "name": "Dolby VISION P5",
       "pattern": "(?i)(?:\\bdolby[-_. ]?vision[-_. ]?p5(?![a-z0-9]))",
@@ -219,7 +219,7 @@
     {
       "groupId": "g-video",
       "id": "video_dolby-vision-p7",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_dolby-vision-p7.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_dolby-vision-p7.svg?v=6",
       "isEnabled": true,
       "name": "Dolby VISION P7",
       "pattern": "(?i)(?:\\bdolby[-_. ]?vision[-_. ]?p7(?![a-z0-9]))",
@@ -232,7 +232,7 @@
     {
       "groupId": "g-video",
       "id": "video_dolby-vision-p8",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_dolby-vision-p8.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_dolby-vision-p8.svg?v=6",
       "isEnabled": true,
       "name": "Dolby VISION P8",
       "pattern": "(?i)(?:\\bdolby[-_. ]?vision[-_. ]?p8(?![a-z0-9]))",
@@ -245,7 +245,7 @@
     {
       "groupId": "g-video",
       "id": "video_hdr10-plus",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_hdr10-plus.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_hdr10-plus.svg?v=6",
       "isEnabled": true,
       "name": "HDR10+",
       "pattern": "(?i)(?:\\bhdr10[-_. ]?plus(?![a-z])|\\bhdr10plus(?![a-z])|\\bhdr10\\+)",
@@ -258,7 +258,7 @@
     {
       "groupId": "g-video",
       "id": "video_hdr10",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_hdr10.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_hdr10.svg?v=6",
       "isEnabled": true,
       "name": "HDR10",
       "pattern": "(?i)(?:^(?!.*(?:hdr10[-_. ]?plus|hdr10\\+)).*\\bhdr10(?![a-z0-9]))",
@@ -271,7 +271,7 @@
     {
       "groupId": "g-video",
       "id": "video_hdr",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_hdr.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_hdr.svg?v=6",
       "isEnabled": true,
       "name": "HDR",
       "pattern": "(?i)(?:^(?!.*(?:hdr[-_. ]?dv|hdr[-_. ]?\\|[-_. ]?dv|hdr10|hdr10[-_. ]?plus|hdr10\\+|hdr10plus)).*\\bhdr(?![a-z]))",
@@ -284,7 +284,7 @@
     {
       "groupId": "g-video",
       "id": "video_hlg",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_hlg.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_hlg.svg?v=6",
       "isEnabled": true,
       "name": "HLG",
       "pattern": "(?i)(?:\\bhlg(?![a-z]))",
@@ -297,7 +297,7 @@
     {
       "groupId": "g-video",
       "id": "video_sdr",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_sdr.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_sdr.svg?v=6",
       "isEnabled": true,
       "name": "SDR",
       "pattern": "(?i)(?:\\bsdr(?![a-z]))",
@@ -310,7 +310,7 @@
     {
       "groupId": "g-video",
       "id": "video_10-bit",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_10-bit.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_10-bit.svg?v=6",
       "isEnabled": true,
       "name": "10-BIT",
       "pattern": "(?i)(?:10[-_. ]?bit(?![a-z])|10\\-bit(?![a-z]))",
@@ -323,7 +323,7 @@
     {
       "groupId": "g-video",
       "id": "video_3d",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_3d.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_3d.svg?v=6",
       "isEnabled": true,
       "name": "3D",
       "pattern": "(?i)(?:3d(?![a-z]))",
@@ -336,7 +336,7 @@
     {
       "groupId": "g-video",
       "id": "video_60-fps",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_60-fps.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/video_60-fps.svg?v=6",
       "isEnabled": true,
       "name": "60 FPS",
       "pattern": "(?i)(?:60[-_. ]?fps(?![a-z]))",
@@ -349,7 +349,7 @@
     {
       "groupId": "g-source",
       "id": "source_bluray",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_bluray.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_bluray.svg?v=6",
       "isEnabled": true,
       "name": "BLURAY",
       "pattern": "(?i)(?:\\bblu\\-ray(?![a-z])|\\bbluray(?![a-z])|\\bbrrip(?![a-z])|\\bbdrip(?![a-z])|^(?!.*(?:bd[-_. ]?remux)).*\\bbd(?![a-z]))",
@@ -362,7 +362,7 @@
     {
       "groupId": "g-source",
       "id": "source_bd-remux",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_bd-remux.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_bd-remux.svg?v=6",
       "isEnabled": true,
       "name": "BD REMUX",
       "pattern": "(?i)(?:\\bbd[-_. ]?remux(?![a-z])|\\bbdremux(?![a-z]))",
@@ -375,7 +375,7 @@
     {
       "groupId": "g-source",
       "id": "source_remux",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_remux.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_remux.svg?v=6",
       "isEnabled": true,
       "name": "REMUX",
       "pattern": "(?i)(?:^(?!.*(?:bd[-_. ]?remux)).*\\bremux(?![a-z]))",
@@ -388,7 +388,7 @@
     {
       "groupId": "g-source",
       "id": "source_web-dl",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_web-dl.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_web-dl.svg?v=6",
       "isEnabled": true,
       "name": "WEB-DL",
       "pattern": "(?i)(?:\\bweb\\-dl(?![a-z])|\\bweb[-_. ]?dl(?![a-z])|\\bwebdl(?![a-z]))",
@@ -401,7 +401,7 @@
     {
       "groupId": "g-source",
       "id": "source_webrip",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_webrip.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_webrip.svg?v=6",
       "isEnabled": true,
       "name": "WEBRIP",
       "pattern": "(?i)(?:\\bweb\\-rip(?![a-z])|\\bwebrip(?![a-z]))",
@@ -414,7 +414,7 @@
     {
       "groupId": "g-source",
       "id": "source_hdtv",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_hdtv.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_hdtv.svg?v=6",
       "isEnabled": true,
       "name": "HDTV",
       "pattern": "(?i)(?:\\bhdtv(?![a-z]))",
@@ -427,7 +427,7 @@
     {
       "groupId": "g-source",
       "id": "source_dvd",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_dvd.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_dvd.svg?v=6",
       "isEnabled": true,
       "name": "DVD",
       "pattern": "(?i)(?:\\bdvd(?![a-z]))",
@@ -440,7 +440,7 @@
     {
       "groupId": "g-source",
       "id": "source_hdrip",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_hdrip.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_hdrip.svg?v=6",
       "isEnabled": true,
       "name": "HDRIP",
       "pattern": "(?i)(?:\\bhdrip(?![a-z]))",
@@ -453,7 +453,7 @@
     {
       "groupId": "g-source",
       "id": "source_cam",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_cam.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_cam.svg?v=6",
       "isEnabled": true,
       "name": "CAM",
       "pattern": "(?i)(?:\\bcam(?![a-z]))",
@@ -466,7 +466,7 @@
     {
       "groupId": "g-source",
       "id": "source_ts",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_ts.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/source_ts.svg?v=6",
       "isEnabled": true,
       "name": "TS",
       "pattern": "(?i)(?:\\bts(?![a-z]))",
@@ -479,7 +479,7 @@
     {
       "groupId": "g-codec",
       "id": "codec_hevc",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_hevc.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_hevc.svg?v=6",
       "isEnabled": true,
       "name": "HEVC",
       "pattern": "(?i)(?:\\bh\\.265(?![a-z0-9])|\\bh265(?![a-z0-9])|\\bx265(?![a-z0-9])|\\bhevc(?![a-z]))",
@@ -492,7 +492,7 @@
     {
       "groupId": "g-codec",
       "id": "codec_h-265",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_h-265.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_h-265.svg?v=6",
       "isEnabled": true,
       "name": "H.265",
       "pattern": "(?i)(?:\\bh[-_. ]?265(?![a-z0-9])|\\bh\\.265(?![a-z0-9]))",
@@ -505,7 +505,7 @@
     {
       "groupId": "g-codec",
       "id": "codec_h-264",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_h-264.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_h-264.svg?v=6",
       "isEnabled": true,
       "name": "H.264",
       "pattern": "(?i)(?:\\bh[-_. ]?264(?![a-z0-9])|\\bh\\.264(?![a-z0-9])|\\bx264(?![a-z0-9])|\\bh264(?![a-z0-9])|\\bavc(?![a-z]))",
@@ -518,7 +518,7 @@
     {
       "groupId": "g-codec",
       "id": "codec_av1",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_av1.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_av1.svg?v=6",
       "isEnabled": true,
       "name": "AV1",
       "pattern": "(?i)(?:\\bav1(?![a-z0-9]))",
@@ -531,7 +531,7 @@
     {
       "groupId": "g-codec",
       "id": "codec_vp9",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_vp9.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_vp9.svg?v=6",
       "isEnabled": true,
       "name": "VP9",
       "pattern": "(?i)(?:\\bvp9(?![a-z0-9]))",
@@ -544,7 +544,7 @@
     {
       "groupId": "g-codec",
       "id": "codec_xvid",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_xvid.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/codec_xvid.svg?v=6",
       "isEnabled": true,
       "name": "XVID",
       "pattern": "(?i)(?:\\bxvid(?![a-z]))",
@@ -557,7 +557,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_dolby-atmos",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dolby-atmos.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dolby-atmos.svg?v=6",
       "isEnabled": true,
       "name": "Dolby ATMOS",
       "pattern": "(?i)(?:\\bdolby[-_. ]?atmos(?![a-z])|\\bdd\\+[-_. ]?atmos(?![a-z])|^(?!.*(?:audio[-_. ]?atmos|audio[-_. ]?\\|[-_. ]?atmos|dd\\+[-_. ]?atmos|dolby[-_. ]?atmos|dolby[-_. ]?digital[-_. ]?plus[-_. ]?atmos|dolby[-_. ]?digital\\+[-_. ]?atmos)).*\\batmos(?![a-z]))",
@@ -570,7 +570,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_dolby-digital-plus-atmos",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dolby-digital-plus-atmos.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dolby-digital-plus-atmos.svg?v=6",
       "isEnabled": true,
       "name": "Dolby DIGITAL+ ATMOS",
       "pattern": "(?i)(?:\\bdolby[-_. ]?digital[-_. ]?plus[-_. ]?atmos(?![a-z])|\\bdolby[-_. ]?digital\\+[-_. ]?atmos(?![a-z]))",
@@ -583,7 +583,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_dts-x",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dts-x.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dts-x.svg?v=6",
       "isEnabled": true,
       "name": "DTS :X",
       "pattern": "(?i)(?:\\bdts[-_. ]?:x(?![a-z])|\\bdts[-_. ]?x(?![a-z])|\\bdts:x(?![a-z])|\\bdtsx(?![a-z]))",
@@ -596,7 +596,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_dolby-truehd",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dolby-truehd.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dolby-truehd.svg?v=6",
       "isEnabled": true,
       "name": "Dolby TRUEHD",
       "pattern": "(?i)(?:\\bdolby[-_. ]?truehd(?![a-z])|^(?!.*(?:dolby[-_. ]?truehd)).*\\btruehd(?![a-z]))",
@@ -609,7 +609,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_dts-hd-ma",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dts-hd-ma.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dts-hd-ma.svg?v=6",
       "isEnabled": true,
       "name": "DTS -HD MA",
       "pattern": "(?i)(?:\\bdts[-_. ]?\\-hd[-_. ]?ma(?![a-z])|\\bdts[-_. ]?hd[-_. ]?ma(?![a-z])|\\bdts\\-hd[-_. ]?ma(?![a-z])|\\bdts\\-hd\\.ma(?![a-z])|\\bdts\\-hdma(?![a-z]))",
@@ -622,7 +622,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_dts-hd-hra",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dts-hd-hra.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dts-hd-hra.svg?v=6",
       "isEnabled": true,
       "name": "DTS -HD HRA",
       "pattern": "(?i)(?:\\bdts[-_. ]?\\-hd[-_. ]?hra(?![a-z])|\\bdts[-_. ]?hd[-_. ]?hra(?![a-z]))",
@@ -635,7 +635,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_dts",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dts.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dts.svg?v=6",
       "isEnabled": true,
       "name": "DTS",
       "pattern": "(?i)(?:^(?!.*(?:dts[-_. ]?\\-hd[-_. ]?hra|dts[-_. ]?\\-hd[-_. ]?ma|dts[-_. ]?:x|dts[-_. ]?hd[-_. ]?hra|dts[-_. ]?hd[-_. ]?ma|dts[-_. ]?x|dts\\-hd[-_. ]?ma|dts\\-hd\\.ma|dts\\-hdma|dts:x)).*\\bdts(?![a-z]))",
@@ -648,7 +648,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_dolby-digital-plus",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dolby-digital-plus.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dolby-digital-plus.svg?v=6",
       "isEnabled": true,
       "name": "Dolby DIGITAL+",
       "pattern": "(?i)(?:^(?!.*(?:dolby[-_. ]?digital[-_. ]?plus[-_. ]?atmos)).*\\bdolby[-_. ]?digital[-_. ]?plus(?![a-z])|^(?!.*(?:dolby[-_. ]?digital\\+[-_. ]?atmos)).*\\bdolby[-_. ]?digital\\+|\\be\\-ac\\-3(?![a-z0-9])|\\beac3(?![a-z0-9])|^(?!.*(?:dd\\+[-_. ]?atmos)).*\\bdd\\+|\\bddp(?![a-z]))",
@@ -661,7 +661,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_dolby-digital",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dolby-digital.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_dolby-digital.svg?v=6",
       "isEnabled": true,
       "name": "Dolby DIGITAL",
       "pattern": "(?i)(?:^(?!.*(?:dolby[-_. ]?digital[-_. ]?plus|dolby[-_. ]?digital[-_. ]?plus[-_. ]?atmos|dolby[-_. ]?digital\\+|dolby[-_. ]?digital\\+[-_. ]?atmos)).*\\bdolby[-_. ]?digital(?![a-z])|^(?!.*(?:e\\-ac\\-3)).*\\bac\\-3(?![a-z0-9])|\\bac3(?![a-z0-9])|^(?!.*(?:dd\\+|dd\\+[-_. ]?atmos)).*\\bdd(?![a-z]))",
@@ -674,7 +674,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_eac3",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_eac3.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_eac3.svg?v=6",
       "isEnabled": true,
       "name": "EAC3",
       "pattern": "(?i)(?:\\beac3(?![a-z0-9]))",
@@ -687,7 +687,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_ac3",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_ac3.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_ac3.svg?v=6",
       "isEnabled": true,
       "name": "AC3",
       "pattern": "(?i)(?:\\bac3(?![a-z0-9]))",
@@ -700,7 +700,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_aac",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_aac.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_aac.svg?v=6",
       "isEnabled": true,
       "name": "AAC",
       "pattern": "(?i)(?:\\baac(?![a-z]))",
@@ -713,7 +713,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_flac",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_flac.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_flac.svg?v=6",
       "isEnabled": true,
       "name": "FLAC",
       "pattern": "(?i)(?:\\bflac(?![a-z]))",
@@ -726,7 +726,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_opus",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_opus.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_opus.svg?v=6",
       "isEnabled": true,
       "name": "OPUS",
       "pattern": "(?i)(?:\\bopus(?![a-z]))",
@@ -739,7 +739,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_mp3",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_mp3.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_mp3.svg?v=6",
       "isEnabled": true,
       "name": "MP3",
       "pattern": "(?i)(?:\\bmp3(?![a-z0-9]))",
@@ -752,7 +752,7 @@
     {
       "groupId": "g-audio",
       "id": "audio_pcm",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_pcm.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio_pcm.svg?v=6",
       "isEnabled": true,
       "name": "PCM",
       "pattern": "(?i)(?:\\bpcm(?![a-z]))",
@@ -765,7 +765,7 @@
     {
       "groupId": "g-ch",
       "id": "audio-channels_9-1-6",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_9-1-6.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_9-1-6.svg?v=6",
       "isEnabled": true,
       "name": "9.1.6",
       "pattern": "(?i)(?:9\\.1\\.6(?![a-z0-9])|9[-_. ]?1[-_. ]?6(?![a-z0-9]))",
@@ -778,7 +778,7 @@
     {
       "groupId": "g-ch",
       "id": "audio-channels_7-1-4",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_7-1-4.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_7-1-4.svg?v=6",
       "isEnabled": true,
       "name": "7.1.4",
       "pattern": "(?i)(?:7[-_. ]?1[-_. ]?4(?![a-z0-9])|7\\.1\\.4(?![a-z0-9]))",
@@ -791,7 +791,7 @@
     {
       "groupId": "g-ch",
       "id": "audio-channels_7-1",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_7-1.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_7-1.svg?v=6",
       "isEnabled": true,
       "name": "7.1",
       "pattern": "(?i)(?:^(?!.*(?:7[-_. ]?1[-_. ]?4|7\\.1\\.4)).*7[-_. ]?1(?![a-z0-9])|^(?!.*(?:7\\.1\\.4)).*7\\.1(?![a-z0-9]))",
@@ -804,7 +804,7 @@
     {
       "groupId": "g-ch",
       "id": "audio-channels_5-1",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_5-1.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_5-1.svg?v=6",
       "isEnabled": true,
       "name": "5.1",
       "pattern": "(?i)(?:^(?!.*(?:ch[-_. ]?5[-_. ]?1|ch[-_. ]?\\|[-_. ]?5\\.1)).*5[-_. ]?1(?![a-z0-9])|^(?!.*(?:ch[-_. ]?\\|[-_. ]?5\\.1)).*5\\.1(?![a-z0-9]))",
@@ -817,7 +817,7 @@
     {
       "groupId": "g-ch",
       "id": "audio-channels_2-1",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_2-1.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_2-1.svg?v=6",
       "isEnabled": true,
       "name": "2.1",
       "pattern": "(?i)(?:2\\.1(?![a-z0-9])|^(?!.*(?:2160p)).*2[-_. ]?1(?![a-z0-9]))",
@@ -830,7 +830,7 @@
     {
       "groupId": "g-ch",
       "id": "audio-channels_2-0",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_2-0.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_2-0.svg?v=6",
       "isEnabled": true,
       "name": "2.0",
       "pattern": "(?i)(?:\\bstereo(?![a-z])|2\\.0(?![a-z0-9])|2[-_. ]?0(?![a-z0-9]))",
@@ -843,7 +843,7 @@
     {
       "groupId": "g-ch",
       "id": "audio-channels_stereo",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_stereo.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_stereo.svg?v=6",
       "isEnabled": true,
       "name": "STEREO",
       "pattern": "(?i)(?:\\bstereo(?![a-z]))",
@@ -856,7 +856,7 @@
     {
       "groupId": "g-ch",
       "id": "audio-channels_mono",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_mono.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/audio-channels_mono.svg?v=6",
       "isEnabled": true,
       "name": "MONO",
       "pattern": "(?i)(?:\\bmono(?![a-z]))",
@@ -869,7 +869,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_extended",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_extended.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_extended.svg?v=6",
       "isEnabled": true,
       "name": "EXTENDED",
       "pattern": "(?i)(?:\\bextended(?![a-z]))",
@@ -882,7 +882,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_director-s-cut",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_director-s-cut.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_director-s-cut.svg?v=6",
       "isEnabled": true,
       "name": "DIRECTOR’S CUT",
       "pattern": "(?i)(?:\\bdirector[-_. ]?s[-_. ]?cut(?![a-z])|\\bdirector['’]s[-_. ]?cut(?![a-z]))",
@@ -895,7 +895,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_unrated",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_unrated.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_unrated.svg?v=6",
       "isEnabled": true,
       "name": "UNRATED",
       "pattern": "(?i)(?:\\bunrated(?![a-z]))",
@@ -908,7 +908,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_theatrical",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_theatrical.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_theatrical.svg?v=6",
       "isEnabled": true,
       "name": "THEATRICAL",
       "pattern": "(?i)(?:\\btheatrical(?![a-z]))",
@@ -921,7 +921,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_remastered",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_remastered.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_remastered.svg?v=6",
       "isEnabled": true,
       "name": "REMASTERED",
       "pattern": "(?i)(?:\\bremastered(?![a-z]))",
@@ -934,7 +934,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_4k-remaster",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_4k-remaster.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_4k-remaster.svg?v=6",
       "isEnabled": true,
       "name": "4K REMASTER",
       "pattern": "(?i)(?:4k[-_. ]?remaster(?![a-z]))",
@@ -947,7 +947,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_imax",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_imax.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_imax.svg?v=6",
       "isEnabled": true,
       "name": "IMAX",
       "pattern": "(?i)(?:^(?!.*(?:imax[-_. ]?enhanced)).*\\bimax(?![a-z]))",
@@ -960,7 +960,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_imax-enhanced",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_imax-enhanced.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_imax-enhanced.svg?v=6",
       "isEnabled": true,
       "name": "IMAX ENHANCED",
       "pattern": "(?i)(?:\\bimax[-_. ]?enhanced(?![a-z]))",
@@ -973,7 +973,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_criterion",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_criterion.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_criterion.svg?v=6",
       "isEnabled": true,
       "name": "CRITERION",
       "pattern": "(?i)(?:^(?!.*(?:criterion[-_. ]?channel)).*\\bcriterion(?![a-z]))",
@@ -986,7 +986,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_hybrid",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_hybrid.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_hybrid.svg?v=6",
       "isEnabled": true,
       "name": "HYBRID",
       "pattern": "(?i)(?:\\bhybrid(?![a-z]))",
@@ -999,7 +999,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_proper",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_proper.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_proper.svg?v=6",
       "isEnabled": true,
       "name": "PROPER",
       "pattern": "(?i)(?:\\bproper(?![a-z]))",
@@ -1012,7 +1012,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_repack",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_repack.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_repack.svg?v=6",
       "isEnabled": true,
       "name": "REPACK",
       "pattern": "(?i)(?:\\brepack(?![a-z]))",
@@ -1025,7 +1025,7 @@
     {
       "groupId": "g-ed",
       "id": "edition_complete",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_complete.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/edition_complete.svg?v=6",
       "isEnabled": true,
       "name": "COMPLETE",
       "pattern": "(?i)(?:\\bcomplete(?![a-z]))",
@@ -1038,7 +1038,7 @@
     {
       "groupId": "g-anime",
       "id": "anime_seadex",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_seadex.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_seadex.svg?v=6",
       "isEnabled": true,
       "name": "SEADEX",
       "pattern": "(?i)(?:^(?!.*(?:seadex[-_. ]?alt|seadex[-_. ]?best|seadex[-_. ]?\\|[-_. ]?alt|seadex[-_. ]?\\|[-_. ]?best)).*\\bsea[-_. ]?dex(?![a-z])|^(?!.*(?:seadex[-_. ]?alt|seadex[-_. ]?best|seadex[-_. ]?\\|[-_. ]?alt|seadex[-_. ]?\\|[-_. ]?best)).*\\bseadex(?![a-z]))",
@@ -1051,7 +1051,7 @@
     {
       "groupId": "g-anime",
       "id": "anime_seadex-best",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_seadex-best.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_seadex-best.svg?v=6",
       "isEnabled": true,
       "name": "SEADEX | BEST",
       "pattern": "(?i)(?:\\bseadex[-_. ]?\\|[-_. ]?best(?![a-z])|\\bseadex[-_. ]?best(?![a-z]))",
@@ -1064,7 +1064,7 @@
     {
       "groupId": "g-anime",
       "id": "anime_seadex-alt",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_seadex-alt.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_seadex-alt.svg?v=6",
       "isEnabled": true,
       "name": "SEADEX | ALT",
       "pattern": "(?i)(?:\\bseadex[-_. ]?\\|[-_. ]?alt(?![a-z])|\\bseadex[-_. ]?alt(?![a-z]))",
@@ -1077,7 +1077,7 @@
     {
       "groupId": "g-anime",
       "id": "anime_dual-audio",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_dual-audio.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_dual-audio.svg?v=6",
       "isEnabled": true,
       "name": "DUAL AUDIO",
       "pattern": "(?i)(?:\\bdual[-_. ]?audio(?![a-z]))",
@@ -1090,7 +1090,7 @@
     {
       "groupId": "g-anime",
       "id": "anime_multi-sub",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_multi-sub.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_multi-sub.svg?v=6",
       "isEnabled": true,
       "name": "MULTI-SUB",
       "pattern": "(?i)(?:\\bmulti[-_. ]?sub(?![a-z])|\\bmulti\\-sub(?![a-z]))",
@@ -1103,7 +1103,7 @@
     {
       "groupId": "g-anime",
       "id": "anime_batch",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_batch.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_batch.svg?v=6",
       "isEnabled": true,
       "name": "BATCH",
       "pattern": "(?i)(?:\\bbatch(?![a-z]))",
@@ -1116,7 +1116,7 @@
     {
       "groupId": "g-anime",
       "id": "anime_uncensored",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_uncensored.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_uncensored.svg?v=6",
       "isEnabled": true,
       "name": "UNCENSORED",
       "pattern": "(?i)(?:\\buncensored(?![a-z]))",
@@ -1129,7 +1129,7 @@
     {
       "groupId": "g-anime",
       "id": "anime_ncop-nced",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_ncop-nced.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_ncop-nced.svg?v=6",
       "isEnabled": true,
       "name": "NCOP / NCED",
       "pattern": "(?i)(?:\\bncop[-_. ]?/[-_. ]?nced(?![a-z])|\\bncop[-_. ]?nced(?![a-z]))",
@@ -1142,7 +1142,7 @@
     {
       "groupId": "g-anime",
       "id": "anime_bd",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_bd.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime_bd.svg?v=6",
       "isEnabled": true,
       "name": "BD",
       "pattern": "(?i)(?:^(?!.*(?:bd[-_. ]?remux)).*\\bbd(?![a-z]))",
@@ -1155,7 +1155,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_en",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_en.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_en.svg?v=6",
       "isEnabled": true,
       "name": "EN",
       "pattern": "(?i)(?:^(?!.*(?:sub[-_. ]?en|sub[-_. ]?\\|[-_. ]?en)).*\\ben(?![a-z]))",
@@ -1168,7 +1168,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_ar",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_ar.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_ar.svg?v=6",
       "isEnabled": true,
       "name": "AR",
       "pattern": "(?i)(?:^(?!.*(?:lang[-_. ]?ar|lang[-_. ]?\\|[-_. ]?ar|sub[-_. ]?ar|sub[-_. ]?\\|[-_. ]?ar)).*\\bar(?![a-z]))",
@@ -1181,7 +1181,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_fr",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_fr.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_fr.svg?v=6",
       "isEnabled": true,
       "name": "FR",
       "pattern": "(?i)(?:\\bfr(?![a-z]))",
@@ -1194,7 +1194,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_es",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_es.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_es.svg?v=6",
       "isEnabled": true,
       "name": "ES",
       "pattern": "(?i)(?:\\bes(?![a-z]))",
@@ -1207,7 +1207,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_de",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_de.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_de.svg?v=6",
       "isEnabled": true,
       "name": "DE",
       "pattern": "(?i)(?:\\bde(?![a-z]))",
@@ -1220,7 +1220,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_it",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_it.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_it.svg?v=6",
       "isEnabled": true,
       "name": "IT",
       "pattern": "(?i)(?:\\bit(?![a-z]))",
@@ -1233,7 +1233,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_pt",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_pt.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_pt.svg?v=6",
       "isEnabled": true,
       "name": "PT",
       "pattern": "(?i)(?:\\bpt(?![a-z]))",
@@ -1246,7 +1246,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_tr",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_tr.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_tr.svg?v=6",
       "isEnabled": true,
       "name": "TR",
       "pattern": "(?i)(?:\\btr(?![a-z]))",
@@ -1259,7 +1259,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_ru",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_ru.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_ru.svg?v=6",
       "isEnabled": true,
       "name": "RU",
       "pattern": "(?i)(?:\\bru(?![a-z]))",
@@ -1272,7 +1272,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_hi",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_hi.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_hi.svg?v=6",
       "isEnabled": true,
       "name": "HI",
       "pattern": "(?i)(?:\\bhi(?![a-z]))",
@@ -1285,7 +1285,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_ja",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_ja.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_ja.svg?v=6",
       "isEnabled": true,
       "name": "JA",
       "pattern": "(?i)(?:\\bja(?![a-z]))",
@@ -1298,7 +1298,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_ko",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_ko.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_ko.svg?v=6",
       "isEnabled": true,
       "name": "KO",
       "pattern": "(?i)(?:\\bko(?![a-z]))",
@@ -1311,7 +1311,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_zh",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_zh.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_zh.svg?v=6",
       "isEnabled": true,
       "name": "ZH",
       "pattern": "(?i)(?:\\bzh(?![a-z]))",
@@ -1324,7 +1324,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_fa",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_fa.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_fa.svg?v=6",
       "isEnabled": true,
       "name": "FA",
       "pattern": "(?i)(?:\\bfa(?![a-z]))",
@@ -1337,7 +1337,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_ur",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_ur.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_ur.svg?v=6",
       "isEnabled": true,
       "name": "UR",
       "pattern": "(?i)(?:\\bur(?![a-z]))",
@@ -1350,7 +1350,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_nl",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_nl.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_nl.svg?v=6",
       "isEnabled": true,
       "name": "NL",
       "pattern": "(?i)(?:\\bnl(?![a-z]))",
@@ -1363,7 +1363,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_pl",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_pl.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_pl.svg?v=6",
       "isEnabled": true,
       "name": "PL",
       "pattern": "(?i)(?:\\bpl(?![a-z]))",
@@ -1376,7 +1376,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_sv",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_sv.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_sv.svg?v=6",
       "isEnabled": true,
       "name": "SV",
       "pattern": "(?i)(?:\\bsv(?![a-z]))",
@@ -1389,7 +1389,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_he",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_he.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_he.svg?v=6",
       "isEnabled": true,
       "name": "HE",
       "pattern": "(?i)(?:\\bhe(?![a-z]))",
@@ -1402,7 +1402,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_th",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_th.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_th.svg?v=6",
       "isEnabled": true,
       "name": "TH",
       "pattern": "(?i)(?:\\bth(?![a-z]))",
@@ -1415,7 +1415,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_id",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_id.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_id.svg?v=6",
       "isEnabled": true,
       "name": "ID",
       "pattern": "(?i)(?:\\bid(?![a-z]))",
@@ -1428,7 +1428,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_vi",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_vi.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_vi.svg?v=6",
       "isEnabled": true,
       "name": "VI",
       "pattern": "(?i)(?:\\bvi(?![a-z]))",
@@ -1441,7 +1441,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_el",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_el.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_el.svg?v=6",
       "isEnabled": true,
       "name": "EL",
       "pattern": "(?i)(?:\\bel(?![a-z]))",
@@ -1454,7 +1454,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_multi",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_multi.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_multi.svg?v=6",
       "isEnabled": true,
       "name": "MULTI",
       "pattern": "(?i)(?:^(?!.*(?:multi[-_. ]?sub|multi\\-sub|sub[-_. ]?multi|sub[-_. ]?\\|[-_. ]?multi)).*\\bmulti(?![a-z]))",
@@ -1467,7 +1467,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_dual",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_dual.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_dual.svg?v=6",
       "isEnabled": true,
       "name": "DUAL",
       "pattern": "(?i)(?:^(?!.*(?:dual[-_. ]?audio)).*\\bdual(?![a-z]))",
@@ -1480,7 +1480,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_dubbed",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_dubbed.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_dubbed.svg?v=6",
       "isEnabled": true,
       "name": "DUBBED",
       "pattern": "(?i)(?:\\bdubbed(?![a-z]))",
@@ -1493,7 +1493,7 @@
     {
       "groupId": "g-lang",
       "id": "languages_original",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_original.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/languages_original.svg?v=6",
       "isEnabled": true,
       "name": "ORIGINAL",
       "pattern": "(?i)(?:\\boriginal(?![a-z]))",
@@ -1506,7 +1506,7 @@
     {
       "groupId": "g-sub",
       "id": "subtitles_cc",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_cc.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_cc.svg?v=6",
       "isEnabled": true,
       "name": "CC",
       "pattern": "(?i)(?:\\bcc(?![a-z]))",
@@ -1519,7 +1519,7 @@
     {
       "groupId": "g-sub",
       "id": "subtitles_sdh",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_sdh.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_sdh.svg?v=6",
       "isEnabled": true,
       "name": "SDH",
       "pattern": "(?i)(?:\\bsdh(?![a-z]))",
@@ -1532,7 +1532,7 @@
     {
       "groupId": "g-sub",
       "id": "subtitles_forced",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_forced.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_forced.svg?v=6",
       "isEnabled": true,
       "name": "FORCED",
       "pattern": "(?i)(?:\\bforced(?![a-z]))",
@@ -1545,7 +1545,7 @@
     {
       "groupId": "g-sub",
       "id": "subtitles_ad",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_ad.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_ad.svg?v=6",
       "isEnabled": true,
       "name": "AD",
       "pattern": "(?i)(?:\\bad(?![a-z]))",
@@ -1558,7 +1558,7 @@
     {
       "groupId": "g-sub",
       "id": "subtitles_sub-en",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_sub-en.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_sub-en.svg?v=6",
       "isEnabled": true,
       "name": "SUB | EN",
       "pattern": "(?i)(?:\\bsub[-_. ]?\\|[-_. ]?en(?![a-z])|\\bsub[-_. ]?en(?![a-z]))",
@@ -1571,7 +1571,7 @@
     {
       "groupId": "g-sub",
       "id": "subtitles_sub-ar",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_sub-ar.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_sub-ar.svg?v=6",
       "isEnabled": true,
       "name": "SUB | AR",
       "pattern": "(?i)(?:\\bsub[-_. ]?\\|[-_. ]?ar(?![a-z])|\\bsub[-_. ]?ar(?![a-z]))",
@@ -1584,7 +1584,7 @@
     {
       "groupId": "g-sub",
       "id": "subtitles_sub-multi",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_sub-multi.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_sub-multi.svg?v=6",
       "isEnabled": true,
       "name": "SUB | MULTI",
       "pattern": "(?i)(?:\\bsub[-_. ]?\\|[-_. ]?multi(?![a-z])|\\bsub[-_. ]?multi(?![a-z]))",
@@ -1597,7 +1597,7 @@
     {
       "groupId": "g-sub",
       "id": "subtitles_embedded",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_embedded.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_embedded.svg?v=6",
       "isEnabled": true,
       "name": "EMBEDDED",
       "pattern": "(?i)(?:\\bembedded(?![a-z]))",
@@ -1610,7 +1610,7 @@
     {
       "groupId": "g-sub",
       "id": "subtitles_softsub",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_softsub.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_softsub.svg?v=6",
       "isEnabled": true,
       "name": "SOFTSUB",
       "pattern": "(?i)(?:\\bsoftsub(?![a-z]))",
@@ -1623,7 +1623,7 @@
     {
       "groupId": "g-sub",
       "id": "subtitles_hardsub",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_hardsub.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/subtitles_hardsub.svg?v=6",
       "isEnabled": true,
       "name": "HARDSUB",
       "pattern": "(?i)(?:\\bhardsub(?![a-z]))",
@@ -1636,7 +1636,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_netflix",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_netflix.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_netflix.svg?v=6",
       "isEnabled": true,
       "name": "Netflix",
       "pattern": "(?i)(?:\\bnetflix(?![a-z])|\\bnf(?![a-z]))",
@@ -1649,7 +1649,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_prime-video",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_prime-video.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_prime-video.svg?v=6",
       "isEnabled": true,
       "name": "Prime Video",
       "pattern": "(?i)(?:\\bprime[-_. ]?video(?![a-z])|\\bamazon(?![a-z])|^(?!.*(?:prime[-_. ]?video)).*\\bprime(?![a-z])|\\bamzn(?![a-z]))",
@@ -1662,7 +1662,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_disney-plus",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_disney-plus.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_disney-plus.svg?v=6",
       "isEnabled": true,
       "name": "Disney+",
       "pattern": "(?i)(?:\\bdisney[-_. ]?plus(?![a-z])|\\bdisney\\+|\\bdsnp(?![a-z]))",
@@ -1675,7 +1675,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_max",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_max.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_max.svg?v=6",
       "isEnabled": true,
       "name": "Max",
       "pattern": "(?i)(?:^(?!.*(?:hbo[-_. ]?max)).*\\bmax(?![a-z]))",
@@ -1688,7 +1688,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_hbo-max",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_hbo-max.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_hbo-max.svg?v=6",
       "isEnabled": true,
       "name": "HBO Max",
       "pattern": "(?i)(?:\\bhbo[-_. ]?max(?![a-z])|\\bhmax(?![a-z]))",
@@ -1701,7 +1701,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_hulu",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_hulu.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_hulu.svg?v=6",
       "isEnabled": true,
       "name": "Hulu",
       "pattern": "(?i)(?:^(?!.*(?:via[-_. ]?hulu|via[-_. ]?\\|[-_. ]?hulu)).*\\bhulu(?![a-z]))",
@@ -1714,7 +1714,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_apple-tv-plus",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_apple-tv-plus.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_apple-tv-plus.svg?v=6",
       "isEnabled": true,
       "name": "Apple TV+",
       "pattern": "(?i)(?:\\bapple[-_. ]?tv[-_. ]?plus(?![a-z])|\\bapple[-_. ]?tv\\+|\\batvp(?![a-z]))",
@@ -1727,7 +1727,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_apple-tv",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_apple-tv.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_apple-tv.svg?v=6",
       "isEnabled": true,
       "name": "Apple TV",
       "pattern": "(?i)(?:^(?!.*(?:apple[-_. ]?tv[-_. ]?plus|apple[-_. ]?tv\\+)).*\\bapple[-_. ]?tv(?![a-z]))",
@@ -1740,7 +1740,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_paramount-plus",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_paramount-plus.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_paramount-plus.svg?v=6",
       "isEnabled": true,
       "name": "Paramount+",
       "pattern": "(?i)(?:\\bparamount[-_. ]?plus(?![a-z])|\\bparamount\\+|\\bpmtp(?![a-z]))",
@@ -1753,7 +1753,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_peacock",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_peacock.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_peacock.svg?v=6",
       "isEnabled": true,
       "name": "Peacock",
       "pattern": "(?i)(?:\\bpeacock(?![a-z])|\\bpcok(?![a-z]))",
@@ -1766,7 +1766,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_showtime",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_showtime.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_showtime.svg?v=6",
       "isEnabled": true,
       "name": "Showtime",
       "pattern": "(?i)(?:\\bshowtime(?![a-z]))",
@@ -1779,7 +1779,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_starz",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_starz.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_starz.svg?v=6",
       "isEnabled": true,
       "name": "Starz",
       "pattern": "(?i)(?:\\bstarz(?![a-z]))",
@@ -1792,7 +1792,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_amc-plus",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_amc-plus.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_amc-plus.svg?v=6",
       "isEnabled": true,
       "name": "AMC+",
       "pattern": "(?i)(?:\\bamc[-_. ]?plus(?![a-z])|\\bamc\\+)",
@@ -1805,7 +1805,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_discovery-plus",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_discovery-plus.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_discovery-plus.svg?v=6",
       "isEnabled": true,
       "name": "discovery+",
       "pattern": "(?i)(?:\\bdiscovery[-_. ]?plus(?![a-z])|\\bdiscovery\\+)",
@@ -1818,7 +1818,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_youtube",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_youtube.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_youtube.svg?v=6",
       "isEnabled": true,
       "name": "YouTube",
       "pattern": "(?i)(?:\\byoutube(?![a-z]))",
@@ -1831,7 +1831,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_tubi",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_tubi.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_tubi.svg?v=6",
       "isEnabled": true,
       "name": "tubi",
       "pattern": "(?i)(?:\\btubi(?![a-z]))",
@@ -1844,7 +1844,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_stan",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_stan.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_stan.svg?v=6",
       "isEnabled": true,
       "name": "Stan",
       "pattern": "(?i)(?:\\bstan(?![a-z]))",
@@ -1857,7 +1857,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_crave",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_crave.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_crave.svg?v=6",
       "isEnabled": true,
       "name": "Crave",
       "pattern": "(?i)(?:\\bcrave(?![a-z]))",
@@ -1870,7 +1870,7 @@
     {
       "groupId": "g-ss",
       "id": "streaming-service_now",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_now.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/streaming-service_now.svg?v=6",
       "isEnabled": true,
       "name": "NOW",
       "pattern": "(?i)(?:\\bnow(?![a-z]))",
@@ -1883,7 +1883,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_crunchyroll",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_crunchyroll.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_crunchyroll.svg?v=6",
       "isEnabled": true,
       "name": "Crunchyroll",
       "pattern": "(?i)(?:\\bcrunchyroll(?![a-z]))",
@@ -1896,7 +1896,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_funimation",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_funimation.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_funimation.svg?v=6",
       "isEnabled": true,
       "name": "Funimation",
       "pattern": "(?i)(?:\\bfunimation(?![a-z]))",
@@ -1909,7 +1909,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_hidive",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_hidive.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_hidive.svg?v=6",
       "isEnabled": true,
       "name": "HIDIVE",
       "pattern": "(?i)(?:\\bhidive(?![a-z]))",
@@ -1922,7 +1922,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_shudder",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_shudder.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_shudder.svg?v=6",
       "isEnabled": true,
       "name": "Shudder",
       "pattern": "(?i)(?:\\bshudder(?![a-z]))",
@@ -1935,7 +1935,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_dropout",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_dropout.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_dropout.svg?v=6",
       "isEnabled": true,
       "name": "Dropout",
       "pattern": "(?i)(?:\\bdropout(?![a-z]))",
@@ -1948,7 +1948,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_curiosity-stream",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_curiosity-stream.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_curiosity-stream.svg?v=6",
       "isEnabled": true,
       "name": "Curiosity Stream",
       "pattern": "(?i)(?:\\bcuriosity[-_. ]?stream(?![a-z]))",
@@ -1961,7 +1961,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_mubi",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_mubi.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_mubi.svg?v=6",
       "isEnabled": true,
       "name": "MUBI",
       "pattern": "(?i)(?:\\bmubi(?![a-z]))",
@@ -1974,7 +1974,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_criterion-channel",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_criterion-channel.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_criterion-channel.svg?v=6",
       "isEnabled": true,
       "name": "Criterion Channel",
       "pattern": "(?i)(?:\\bcriterion[-_. ]?channel(?![a-z]))",
@@ -1987,7 +1987,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_britbox",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_britbox.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_britbox.svg?v=6",
       "isEnabled": true,
       "name": "BritBox",
       "pattern": "(?i)(?:\\bbritbox(?![a-z]))",
@@ -2000,7 +2000,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_animax",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_animax.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_animax.svg?v=6",
       "isEnabled": true,
       "name": "ANIMAX",
       "pattern": "(?i)(?:\\banimax(?![a-z]))",
@@ -2013,7 +2013,7 @@
     {
       "groupId": "g-an",
       "id": "anime-and-niche-streaming_cinemax",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_cinemax.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/anime-and-niche-streaming_cinemax.svg?v=6",
       "isEnabled": true,
       "name": "Cinemax",
       "pattern": "(?i)(?:\\bcinemax(?![a-z]))",
@@ -2026,7 +2026,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_shahid",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_shahid.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_shahid.svg?v=6",
       "isEnabled": true,
       "name": "SHAHID",
       "pattern": "(?i)(?:\\bshahid(?![a-z]))",
@@ -2039,7 +2039,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_showmax",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_showmax.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_showmax.svg?v=6",
       "isEnabled": true,
       "name": "Showmax",
       "pattern": "(?i)(?:\\bshowmax(?![a-z]))",
@@ -2052,7 +2052,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_viutv",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_viutv.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_viutv.svg?v=6",
       "isEnabled": true,
       "name": "ViuTV",
       "pattern": "(?i)(?:\\bviutv(?![a-z]))",
@@ -2065,7 +2065,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_tving",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_tving.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_tving.svg?v=6",
       "isEnabled": true,
       "name": "tving",
       "pattern": "(?i)(?:\\btving(?![a-z]))",
@@ -2078,7 +2078,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_bbc-iplayer",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_bbc-iplayer.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_bbc-iplayer.svg?v=6",
       "isEnabled": true,
       "name": "BBC iPlayer",
       "pattern": "(?i)(?:\\bbbc[-_. ]?iplayer(?![a-z]))",
@@ -2091,7 +2091,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_itvx",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_itvx.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_itvx.svg?v=6",
       "isEnabled": true,
       "name": "ITVX",
       "pattern": "(?i)(?:\\bitvx(?![a-z]))",
@@ -2104,7 +2104,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_all-4",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_all-4.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_all-4.svg?v=6",
       "isEnabled": true,
       "name": "All 4",
       "pattern": "(?i)(?:\\ball[-_. ]?4(?![a-z0-9]))",
@@ -2117,7 +2117,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_my-5",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_my-5.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_my-5.svg?v=6",
       "isEnabled": true,
       "name": "My 5",
       "pattern": "(?i)(?:\\bmy[-_. ]?5(?![a-z0-9]))",
@@ -2130,7 +2130,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_movistar-plus",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_movistar-plus.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_movistar-plus.svg?v=6",
       "isEnabled": true,
       "name": "Movistar Plus+",
       "pattern": "(?i)(?:\\bmovistar[-_. ]?plus\\+|^(?!.*(?:movistar[-_. ]?plus\\+)).*\\bmovistar[-_. ]?plus(?![a-z]))",
@@ -2143,7 +2143,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_atres-player",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_atres-player.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_atres-player.svg?v=6",
       "isEnabled": true,
       "name": "Atres Player",
       "pattern": "(?i)(?:\\batres[-_. ]?player(?![a-z]))",
@@ -2156,7 +2156,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_filmin",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_filmin.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_filmin.svg?v=6",
       "isEnabled": true,
       "name": "Filmin",
       "pattern": "(?i)(?:\\bfilmin(?![a-z]))",
@@ -2169,7 +2169,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_hayu",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_hayu.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_hayu.svg?v=6",
       "isEnabled": true,
       "name": "hayu",
       "pattern": "(?i)(?:\\bhayu(?![a-z]))",
@@ -2182,7 +2182,7 @@
     {
       "groupId": "g-rs",
       "id": "regional-streaming_bet-plus",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_bet-plus.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/regional-streaming_bet-plus.svg?v=6",
       "isEnabled": true,
       "name": "BET+",
       "pattern": "(?i)(?:\\bbet[-_. ]?plus(?![a-z])|\\bbet\\+)",
@@ -2195,7 +2195,7 @@
     {
       "groupId": "g-sp",
       "id": "split-style_res-1080p",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_res-1080p.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_res-1080p.svg?v=6",
       "isEnabled": true,
       "name": "RES | 1080p",
       "pattern": "(?i)(?:\\bres[-_. ]?\\|[-_. ]?1080p(?![a-z])|\\bres[-_. ]?1080p(?![a-z]))",
@@ -2208,7 +2208,7 @@
     {
       "groupId": "g-sp",
       "id": "split-style_hdr-dv",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_hdr-dv.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_hdr-dv.svg?v=6",
       "isEnabled": true,
       "name": "HDR | DV",
       "pattern": "(?i)(?:\\bhdr[-_. ]?\\|[-_. ]?dv(?![a-z])|\\bhdr[-_. ]?dv(?![a-z]))",
@@ -2221,7 +2221,7 @@
     {
       "groupId": "g-sp",
       "id": "split-style_audio-atmos",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_audio-atmos.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_audio-atmos.svg?v=6",
       "isEnabled": true,
       "name": "AUDIO | ATMOS",
       "pattern": "(?i)(?:\\baudio[-_. ]?\\|[-_. ]?atmos(?![a-z])|\\baudio[-_. ]?atmos(?![a-z]))",
@@ -2234,7 +2234,7 @@
     {
       "groupId": "g-sp",
       "id": "split-style_ch-5-1",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_ch-5-1.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_ch-5-1.svg?v=6",
       "isEnabled": true,
       "name": "CH | 5.1",
       "pattern": "(?i)(?:\\bch[-_. ]?\\|[-_. ]?5\\.1(?![a-z0-9])|\\bch[-_. ]?5[-_. ]?1(?![a-z0-9]))",
@@ -2247,7 +2247,7 @@
     {
       "groupId": "g-sp",
       "id": "split-style_lang-ar",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_lang-ar.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_lang-ar.svg?v=6",
       "isEnabled": true,
       "name": "LANG | AR",
       "pattern": "(?i)(?:\\blang[-_. ]?\\|[-_. ]?ar(?![a-z])|\\blang[-_. ]?ar(?![a-z]))",
@@ -2260,7 +2260,7 @@
     {
       "groupId": "g-sp",
       "id": "split-style_via-hulu",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_via-hulu.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_via-hulu.svg?v=6",
       "isEnabled": true,
       "name": "VIA | HULU",
       "pattern": "(?i)(?:\\bvia[-_. ]?\\|[-_. ]?hulu(?![a-z])|\\bvia[-_. ]?hulu(?![a-z]))",
@@ -2273,7 +2273,7 @@
     {
       "groupId": "g-sp",
       "id": "split-style_seadex-best",
-      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_seadex-best.svg?v=4",
+      "imageURL": "https://raw.githubusercontent.com/aliabdoxd14/shamil-badges/refs/heads/main/svg/split-style_seadex-best.svg?v=6",
       "isEnabled": true,
       "name": "SEADEX | BEST",
       "pattern": "(?i)(?:\\bseadex[-_. ]?\\|[-_. ]?best(?![a-z])|\\bseadex[-_. ]?best(?![a-z]))",
